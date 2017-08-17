@@ -1,2 +1,3 @@
-# MusicStoreSample
-Sample code for an IIS\.NET\Azure SQL based Music Store app tutorial
+# Two-tiered Application on Windows using IIS and Azure SQL DB
+
+This sample creates a two-tiered Music Store web application.
